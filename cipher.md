@@ -1,6 +1,6 @@
 # Codebreaking for Classical Ciphers
 
-## 1
+## Substitution cipher
 
 빈도수 분석을 통한 유추와 대입으로 키를 알아낼 수 있다.  
 
@@ -20,7 +20,7 @@ RYSYNDROMECORONAVIRUSTWOISAPOSITIVESENSESINGLESTRANDEDRNAVIRUSTHATISCONTAGIOUSIN
 
 
 
-## 2
+## Vigenère cipher
 
 키의 길이를 알아내기 위해 반복되는 문자열의 간격을 측정하고 그것의 최대공약수를 찾는다.
 키의 길이가 7임을 알아낼 수 있으며, 빈도수 분석을 통해서 키를 알아낼 수 있다.  
